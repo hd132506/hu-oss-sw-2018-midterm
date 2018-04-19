@@ -4,6 +4,6 @@ Midterm
 
 ## TODO
 
- * [] Add introductory test file about myself
- * [] Write some wiki page about this repository
+ * [ ] Add introductory test file about myself
+ * [ ] Write some wiki page about this repository
  * Open, refer, close issues, milestones and projects
