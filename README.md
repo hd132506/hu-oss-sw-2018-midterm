@@ -6,4 +6,4 @@ Midterm
 
  * [ ] Add introductory test file about myself
  * [ ] Write some wiki page about this repository
- * Open, refer, close issues, milestones and projects
+ * [ ] Open, refer, close issues, milestones and projects
